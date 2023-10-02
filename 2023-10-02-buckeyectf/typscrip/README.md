@@ -40,7 +40,7 @@ it returns is a list of strings with content like
 `${severity} on line ${diagnostic.getLineNumber()}`
 ```
 Let's try and see how it looks
-```fish
+```
 What is your name?
 > den
 Hello, den. Give me some code: (end with blank line)
